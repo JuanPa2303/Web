@@ -38,6 +38,12 @@
 #tarjetaCarrusel-3{
     background-color: rgb(195, 43, 226);
 }
+#tarjetaCarrusel-4{
+    background-color: red;
+}
+#tarjetaCarrusel-5{
+    background-color: orangered;
+}
 a{
     text-decoration: none;
 }
